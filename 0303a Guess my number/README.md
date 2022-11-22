@@ -31,7 +31,7 @@ Game over. Your secret number was: 83
 - * Your program should use bisection search. So think carefully what that means. What will the first guess always be? How should you calculate subsequent guesses?
 - * Your initial endpoints should be 0 and 100. Do not optimize your subsequent endpoints by making them be the halfway point plus or minus 1. Rather, just make them be the halfway point.
 
-**Python Trick: Printing on the same line**
+<details><summary> **Python Trick: Printing on the same line**</summary>
 
 Try the following in your console:
 
@@ -56,6 +56,7 @@ Hithere
 Hi*there
 
 ```
+</details>
 
 **Test Cases to Test Your Code With. Be sure to test these on your own machine - and that you get the same output! - before running your code on this webpage!**
 

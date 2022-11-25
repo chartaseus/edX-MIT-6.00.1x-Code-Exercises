@@ -1,6 +1,6 @@
 # 02a Problem Set 1
 
-<aside>
+
 ❓ Problem 1
 
 ---
@@ -12,10 +12,9 @@ Write a program that counts up the number of vowels contained in the string `s`
 ```
 Number of vowels: 5
 ```
-    
-</aside>
 
-<aside>
+<br>
+
 ❓ Problem 2
 
 ---
@@ -27,10 +26,9 @@ Write a program that prints the number of times the string `'bob'` occurs in 
 ```
 Number of times bob occurs is: 2
 ```
-    
-</aside>
+<br>
 
-<aside>
+
 ❓ Problem 3
 
 ---
@@ -48,5 +46,3 @@ In the case of ties, print the first substring. For example, if `s = 'abcbcd'`,
 ```
 Longest substring in alphabetical order is: abc
 ```
-
-</aside>

@@ -23,7 +23,6 @@ Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is 
 Is your secret number 83?
 Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. c
 Game over. Your secret number was: 83
-
 ```
 
 **Hint: Endpoints**
@@ -31,7 +30,7 @@ Game over. Your secret number was: 83
 - * Your program should use bisection search. So think carefully what that means. What will the first guess always be? How should you calculate subsequent guesses?
 - * Your initial endpoints should be 0 and 100. Do not optimize your subsequent endpoints by making them be the halfway point plus or minus 1. Rather, just make them be the halfway point.
 
-<details><summary> **Python Trick: Printing on the same line**</summary>
+<details><summary> Python Trick: Printing on the same line</summary>
 
 Try the following in your console:
 
@@ -54,8 +53,8 @@ print("there")
 # and will connect the two prints with the character given by end
 Hithere
 Hi*there
-
 ```
+
 </details>
 
 **Test Cases to Test Your Code With. Be sure to test these on your own machine - and that you get the same output! - before running your code on this webpage!**
